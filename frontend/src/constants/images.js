@@ -38,6 +38,7 @@ import logow from "../assets/logow.png"
 import se from "../assets/se.png"
 import code from "../assets/code.png"
 import circleb from "../assets/circleb.png"
+import bhargav from "../assets/bhargav.png"
 
 
 export default {
@@ -77,5 +78,6 @@ export default {
   se,
   logow,
   code,
-  circleb
+  circleb,
+  bhargav
 };
