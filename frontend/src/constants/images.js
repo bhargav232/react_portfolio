@@ -40,6 +40,7 @@ import code from "../assets/code.png"
 import circleb from "../assets/circleb.png"
 import bhargav from "../assets/bhargav.png"
 import bkm_profile from "../assets/bkm_profile.png"
+import my_portfolio from "../assets/my_portfolio.png"
 
 
 export default {
@@ -81,5 +82,6 @@ export default {
   code,
   circleb,
   bhargav,
-  bkm_profile
+  bkm_profile,
+  my_portfolio
 };
