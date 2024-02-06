@@ -39,6 +39,7 @@ import se from "../assets/se.png"
 import code from "../assets/code.png"
 import circleb from "../assets/circleb.png"
 import bhargav from "../assets/bhargav.png"
+import bkm_profile from "../assets/bkm_profile.png"
 
 
 export default {
@@ -79,5 +80,6 @@ export default {
   logow,
   code,
   circleb,
-  bhargav
+  bhargav,
+  bkm_profile
 };
